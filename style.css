@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+.bread {
+    padding: 35px;
+    margin: 1px;
+}
+ul {
+    list-style: url(https://learn.alg.academy/uploads/2021/01/Arrow%201_0_1611261359.svg);
+    padding: 0px 20px 20px 40px;
+    margin: 20px;
+}
+li {
+    padding: 5px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 21px;
+}
+header {
+    background-color: darkcyan;
+}
+.potato {
+    border-top: 5px solid black;
+    font-size: 35px;
+    text-align: center;
+    border-bottom: 5px solid black;
+    padding: 25px;
+}
+footer p {
+    font-size: 17.5px;
+    color: white;
+    margin-left: 40px;
+}
+footer {
+    background-color: darkcyan;
+    padding: 15px;
+}
+a {
+    border: 1px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-bottom: 35px;
+    margin-top: 15px;
+    margin-right:5px;
+    font-family: sans-serif;
+}
+.ram {
+    color: orangered;
+}
